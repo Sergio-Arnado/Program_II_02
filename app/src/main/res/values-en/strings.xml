@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List App</string>
+    <string name="txt_lista_de_compras">xxx</string>
+    <string name="aceite">Oil</string>
+    <string name="fideos">Noodles</string>
+    <string name="sal">Salt</string>
+    <string name="azucar">Sugar</string>
+</resources>

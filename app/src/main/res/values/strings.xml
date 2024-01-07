@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Lista de Compras</string>
+    <string name="txt_lista_de_compras">xxx</string>
+    <string name="aceite">Aceite</string>
+    <string name="fideos">Fideos</string>
+    <string name="sal">Sal</string>
+    <string name="azucar">Azúcar</string>
+
+</resources>
